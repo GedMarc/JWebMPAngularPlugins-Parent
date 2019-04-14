@@ -1,54 +1,72 @@
 [submodule "AngularAnimate"]
 	path = AngularAnimate
 	url = https://github.com/GedMarc/JWebMP-Angular-Animate.git
+	ignore=dirty
 [submodule "AngularAnimatedChange"]
 	path = AngularAnimatedChange
 	url = https://github.com/GedMarc/JWebMP-Angular-Animated-Change.git
+	ignore=dirty
 [submodule "AngularAutoExpand"]
 	path = AngularAutoExpand
 	url = https://github.com/GedMarc/JWebMP-Angular-Auto-Expand.git
+	ignore=dirty
 [submodule "AngularAutoFocus"]
 	path = AngularAutoFocus
 	url = https://github.com/GedMarc/JWebMP-Angular-Auto-Focus.git
+	ignore=dirty
 [submodule "AngularFileUpload"]
 	path = AngularFileUpload
 	url = https://github.com/GedMarc/JWebMP-AngularFileUpload.git
+	ignore=dirty
 [submodule "AngularIonSlider"]
 	path = AngularIonSlider
 	url = https://github.com/GedMarc/JWebMP-Angular-Ion-Slider.git
+	ignore=dirty
 [submodule "AngularPrettyCheckboxes"]
 	path = AngularPrettyCheckboxes
 	url = https://github.com/GedMarc/JWebMP-AngularPrettyCheckboxes.git
+	ignore=dirty
 [submodule "AngularProgressButtonStyles"]
 	path = AngularProgressButtonStyles
 	url = https://github.com/GedMarc/JWebMP-Angular-Progress-Button-Styles.git
+	ignore=dirty
 [submodule "AngularRoute"]
 	path = AngularRoute
 	url = https://github.com/GedMarc/JWebMP-Angular-Route.git
+	ignore=dirty
 [submodule "AngularSanitize"]
 	path = AngularSanitize
 	url = https://github.com/GedMarc/JWebMP-Angular-Sanitize.git
+	ignore=dirty
 [submodule "AngularScrollPosition"]
 	path = AngularScrollPosition
 	url = https://github.com/GedMarc/JWebMP-Angular-Scroll-Position.git
+	ignore=dirty
 [submodule "AngularSlimScroll"]
 	path = AngularSlimScroll
 	url = https://github.com/GedMarc/JWebMP-Angular-SlimScroll.git
+	ignore=dirty
 [submodule "AngularTouch"]
 	path = AngularTouch
 	url = https://github.com/GedMarc/JWebMP-Angular-Touch.git
+	ignore=dirty
 [submodule "AngularTrackWidth"]
 	path = AngularTrackWidth
 	url = https://github.com/GedMarc/JWebMP-Angular-Track-Width.git
+	ignore=dirty
 [submodule "AngularZoomInAnimation"]
 	path = AngularZoomInAnimation
 	url = https://github.com/GedMarc/JWebMP-Angular-Zoom-In-Animation.git
+	ignore=dirty
 [submodule "AngularJS"]
 	path = AngularJS
 	url = https://github.com/GedMarc/JWebMP-AngularJS.git
+	ignore=dirty
 [submodule "NgSlimScroll"]
 	path = NgSlimScroll
 	url = https://github.com/GedMarc/JWebMP-NgSlimScroll.git
+	ignore=dirty
 [submodule "TextAngular"]
 	path = TextAngular
 	url = https://github.com/GedMarc/JWebMP-TextAngular.git
+	ignore=dirty
