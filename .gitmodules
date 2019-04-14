@@ -1,0 +1,48 @@
+[submodule "AngularAnimate"]
+	path = AngularAnimate
+	url = https://github.com/GedMarc/JWebMP-Angular-Animate.git
+[submodule "AngularAnimatedChange"]
+	path = AngularAnimatedChange
+	url = https://github.com/GedMarc/JWebMP-Angular-Animated-Change.git
+[submodule "AngularAutoExpand"]
+	path = AngularAutoExpand
+	url = https://github.com/GedMarc/JWebMP-Angular-Auto-Expand.git
+[submodule "AngularAutoFocus"]
+	path = AngularAutoFocus
+	url = https://github.com/GedMarc/JWebMP-Angular-Auto-Focus.git
+[submodule "AngularFileUpload"]
+	path = AngularFileUpload
+	url = https://github.com/GedMarc/JWebMP-AngularFileUpload.git
+[submodule "AngularIonSlider"]
+	path = AngularIonSlider
+	url = https://github.com/GedMarc/JWebMP-Angular-Ion-Slider.git
+[submodule "AngularPrettyCheckboxes"]
+	path = AngularPrettyCheckboxes
+	url = https://github.com/GedMarc/JWebMP-AngularPrettyCheckboxes.git
+[submodule "AngularProgressButtonStyles"]
+	path = AngularProgressButtonStyles
+	url = https://github.com/GedMarc/JWebMP-Angular-Progress-Button-Styles.git
+[submodule "AngularRoute"]
+	path = AngularRoute
+	url = https://github.com/GedMarc/JWebMP-Angular-Route.git
+[submodule "AngularSanitize"]
+	path = AngularSanitize
+	url = https://github.com/GedMarc/JWebMP-Angular-Sanitize.git
+[submodule "AngularScrollPosition"]
+	path = AngularScrollPosition
+	url = https://github.com/GedMarc/JWebMP-Angular-Scroll-Position.git
+[submodule "AngularSlimScroll"]
+	path = AngularSlimScroll
+	url = https://github.com/GedMarc/JWebMP-Angular-SlimScroll.git
+[submodule "AngularTouch"]
+	path = AngularTouch
+	url = https://github.com/GedMarc/JWebMP-Angular-Touch.git
+[submodule "AngularTrackWidth"]
+	path = AngularTrackWidth
+	url = https://github.com/GedMarc/JWebMP-Angular-Track-Width.git
+[submodule "AngularZoomInAnimation"]
+	path = AngularZoomInAnimation
+	url = https://github.com/GedMarc/JWebMP-Angular-Zoom-In-Animation.git
+[submodule "AngularJS"]
+	path = AngularJS
+	url = https://github.com/GedMarc/JWebMP-AngularJS.git
