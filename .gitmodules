@@ -46,3 +46,9 @@
 [submodule "AngularJS"]
 	path = AngularJS
 	url = https://github.com/GedMarc/JWebMP-AngularJS.git
+[submodule "NgSlimScroll"]
+	path = NgSlimScroll
+	url = https://github.com/GedMarc/JWebMP-NgSlimScroll.git
+[submodule "TextAngular"]
+	path = TextAngular
+	url = https://github.com/GedMarc/JWebMP-TextAngular.git

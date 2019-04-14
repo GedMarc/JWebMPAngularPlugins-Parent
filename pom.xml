@@ -19,7 +19,6 @@
             <modules>
                 <module>AngularAnimate</module>
                 <module>AngularAnimatedChange</module>
-                <module>AngularAutoExpand</module>
                 <module>AngularAutoFocus</module>
                 <module>AngularFileUpload</module>
                 <module>AngularIonSlider</module>
@@ -33,6 +32,8 @@
                 <module>AngularTouch</module>
                 <module>AngularTrackWidth</module>
                 <module>AngularZoomInAnimation</module>
+                <module>NgSlimScroll</module>
+                <module>TextAngular</module>
             </modules>
         </profile>
     </profiles>
