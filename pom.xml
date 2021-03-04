@@ -13,7 +13,10 @@
     <name>Third Party Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
-    <modules>
+	<profiles>
+		<profile>
+			<id>enable-plugins</id>
+			  <modules>
         <module>AngularAnimate</module>
         <module>AngularAnimatedChange</module>
         <module>AngularAutoFocus</module>
@@ -32,5 +35,10 @@
         <module>NgSlimScroll</module>
         <module>TextAngular</module>
     </modules>
+			
+		</profile>
+	</profiles>
+
+  
 
 </project>
