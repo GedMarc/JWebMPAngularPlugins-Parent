@@ -12,6 +12,8 @@
     <artifactId>jwebmp-plugins-angular-parent</artifactId>
     <packaging>pom</packaging>
 
+    <version>0.0.0_0-SNAPSHOT</version>
+
     <name>Third Party Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
