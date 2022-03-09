@@ -38,6 +38,7 @@
                 <module>AngularZoomInAnimation</module>
                 <module>NgSlimScroll</module>
                 <module>TextAngular</module>
+				<module>AngularTypeScript</module>
             </modules>
 
         </profile>

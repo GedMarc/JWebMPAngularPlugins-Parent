@@ -70,3 +70,6 @@
 	path = TextAngular
 	url = https://github.com/GedMarc/JWebMP-TextAngular.git
 	ignore=dirty
+[submodule "AngularTypeScript"]
+	path = AngularTypeScript
+	url = https://github.com/GedMarc/JWebMP-AngularTS.git
