@@ -26,7 +26,7 @@
                 <module>AngularAutoFocus</module>
                 <module>AngularFileUpload</module>
                 <module>AngularIonSlider</module>
-                <module>AngularJS</module>
+                <!--<module>AngularJS</module>-->
                 <module>AngularPrettyCheckboxes</module>
                 <module>AngularProgressButtonStyles</module>
                 <module>AngularRoute</module>
