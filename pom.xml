@@ -21,13 +21,13 @@
         <profile>
             <id>enable-plugins</id>
             <modules>
-                <module>AngularAnimate</module>
+                <!--<module>AngularAnimate</module>
                 <module>AngularAnimatedChange</module>
                 <module>AngularAutoFocus</module>
                 <module>AngularFileUpload</module>
-                <module>AngularIonSlider</module>
+                <module>AngularIonSlider</module>-->
                 <!--<module>AngularJS</module>-->
-                <module>AngularPrettyCheckboxes</module>
+                <!--<module>AngularPrettyCheckboxes</module>
                 <module>AngularProgressButtonStyles</module>
                 <module>AngularRoute</module>
                 <module>AngularSanitize</module>
@@ -37,7 +37,7 @@
                 <module>AngularTrackWidth</module>
                 <module>AngularZoomInAnimation</module>
                 <module>NgSlimScroll</module>
-                <module>TextAngular</module>
+                <module>TextAngular</module>-->
 				<module>AngularTypeScript</module>
             </modules>
 
