@@ -73,3 +73,6 @@
 [submodule "AngularTypeScript"]
 	path = AngularTypeScript
 	url = https://github.com/GedMarc/JWebMP-AngularTS.git
+[submodule "AngularTypeScriptClient"]
+	path = AngularTypeScriptClient
+	url = https://github.com/GedMarc/AngularTSClient.git
