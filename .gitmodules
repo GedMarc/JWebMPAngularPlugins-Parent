@@ -76,3 +76,6 @@
 [submodule "AngularTypeScriptClient"]
 	path = AngularTypeScriptClient
 	url = https://github.com/GedMarc/AngularTSClient.git
+[submodule "NgSelect"]
+	path = NgSelect
+	url = https://github.com/GedMarc/JWebMP-NgSelect.git

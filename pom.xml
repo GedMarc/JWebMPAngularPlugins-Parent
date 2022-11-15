@@ -39,6 +39,8 @@
                 <module>NgSlimScroll</module>
                 <module>TextAngular</module>-->
 				<module>AngularTypeScript</module>
+				<module>AngularTypeScriptClient</module>
+				<module>NgSelect</module>
             </modules>
 
         </profile>
