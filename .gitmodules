@@ -79,3 +79,6 @@
 [submodule "NgSelect"]
 	path = NgSelect
 	url = https://github.com/GedMarc/JWebMP-NgSelect.git
+[submodule "NgxColorPicker"]
+	path = NgxColorPicker
+	url = https://github.com/GedMarc/JWebMP-NgxColorPicker.git

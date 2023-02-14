@@ -41,6 +41,7 @@
 				<module>AngularTypeScript</module>
 				<module>AngularTypeScriptClient</module>
 				<module>NgSelect</module>
+				<module>NgxColorPicker</module>
             </modules>
 
         </profile>
